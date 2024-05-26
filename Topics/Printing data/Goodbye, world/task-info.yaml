@@ -1,0 +1,21 @@
+type: choice
+is_multiple_choice: false
+options:
+  - text: "System.out.print(\"Goodbye, world!\");"
+  - text: "System.out.print('Goodbye, world!');"
+  - text: "System.out.print(Goodbye, world!);"
+  - text: "System.out(\"Goodbye, world!\");"
+  - text: "System.out('Goodbye, world!');"
+files:
+  - name: src/Task.java
+    visible: true
+    learner_created: false
+feedback_link: https://hyperskill.org/learn/step/26367#comment
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: "Fri, 24 May 2024 15:18:22 UTC"
+record: -1
+selected_options:
+  - 2
+local_check: false

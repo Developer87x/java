@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="delegatedBuild" value="false" />
+        <option name="testRunner" value="PLATFORM" />
+        <option name="distributionType" value="WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="gradleJvm" value="jbr-17" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/My First Project with Java/task" />
+            <option value="$PROJECT_DIR$/My First Project with Java/task/build/classes/java" />
+            <option value="$PROJECT_DIR$/My First Project with Java/task/build/generated/sources/annotationProcessor/java" />
+            <option value="$PROJECT_DIR$/My First Project with Java/task/build/generated/sources/headers/java" />
+            <option value="$PROJECT_DIR$/My First Project with Java/task/build/reports/tests" />
+            <option value="$PROJECT_DIR$/My First Project with Java/task/build/test-results" />
+            <option value="$PROJECT_DIR$/My First Project with Java/task/build/tmp" />
+            <option value="$PROJECT_DIR$/Topics/Arithmetic operations/Calculating square, cube and fourth power of a number" />
+            <option value="$PROJECT_DIR$/Topics/Arithmetic operations/Mean calculator" />
+            <option value="$PROJECT_DIR$/Topics/Arithmetic operations/Parentheses" />
+            <option value="$PROJECT_DIR$/Topics/Arithmetic operations/Sum, multiplication, and division of two integers" />
+            <option value="$PROJECT_DIR$/Topics/Arithmetic operations/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Characters/Encoding table" />
+            <option value="$PROJECT_DIR$/Topics/Characters/Find the next Unicode character" />
+            <option value="$PROJECT_DIR$/Topics/Characters/Incrementing and decrementing a char variable" />
+            <option value="$PROJECT_DIR$/Topics/Characters/Output char" />
+            <option value="$PROJECT_DIR$/Topics/Characters/Special characters" />
+            <option value="$PROJECT_DIR$/Topics/Characters/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Coding style conventions/Code style for a project" />
+            <option value="$PROJECT_DIR$/Topics/Coding style conventions/Converting words to uppercase and displaying with a prefix" />
+            <option value="$PROJECT_DIR$/Topics/Coding style conventions/Determining the sign of an integer" />
+            <option value="$PROJECT_DIR$/Topics/Coding style conventions/Encrypted code constructor" />
+            <option value="$PROJECT_DIR$/Topics/Coding style conventions/Fixing a scrambled 'Hello, World!' program" />
+            <option value="$PROJECT_DIR$/Topics/Coding style conventions/Indentation" />
+            <option value="$PROJECT_DIR$/Topics/Coding style conventions/Print the print statement" />
+            <option value="$PROJECT_DIR$/Topics/Coding style conventions/The number of spaces" />
+            <option value="$PROJECT_DIR$/Topics/Coding style conventions/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Coding style conventions/Unscramble the greeting message program" />
+            <option value="$PROJECT_DIR$/Topics/Comments/Alternative code" />
+            <option value="$PROJECT_DIR$/Topics/Comments/Forms of comments" />
+            <option value="$PROJECT_DIR$/Topics/Comments/Greeting program with user input" />
+            <option value="$PROJECT_DIR$/Topics/Comments/Incorrect comments" />
+            <option value="$PROJECT_DIR$/Topics/Comments/Printing only the longest line" />
+            <option value="$PROJECT_DIR$/Topics/Comments/Statements" />
+            <option value="$PROJECT_DIR$/Topics/Comments/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Comments/Three numbers" />
+            <option value="$PROJECT_DIR$/Topics/Comments/Uncomment a line" />
+            <option value="$PROJECT_DIR$/Topics/Comments/Uncommented comments" />
+            <option value="$PROJECT_DIR$/Topics/Formatted output/Creating a personalized greeting through string manipulation" />
+            <option value="$PROJECT_DIR$/Topics/Formatted output/Find the correct Statement" />
+            <option value="$PROJECT_DIR$/Topics/Formatted output/Formatting Long Sentences" />
+            <option value="$PROJECT_DIR$/Topics/Formatted output/Integer Formatting" />
+            <option value="$PROJECT_DIR$/Topics/Formatted output/Job simulation" />
+            <option value="$PROJECT_DIR$/Topics/Formatted output/String Format Precision" />
+            <option value="$PROJECT_DIR$/Topics/Formatted output/The battle for Mathematics" />
+            <option value="$PROJECT_DIR$/Topics/Formatted output/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Increment and decrement/Decrement all" />
+            <option value="$PROJECT_DIR$/Topics/Increment and decrement/Increase, decrease and increase an integer" />
+            <option value="$PROJECT_DIR$/Topics/Increment and decrement/Incrementing and decrementing a variable" />
+            <option value="$PROJECT_DIR$/Topics/Increment and decrement/Remainder of division" />
+            <option value="$PROJECT_DIR$/Topics/Increment and decrement/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Integer types and operations/Arithmetic expression" />
+            <option value="$PROJECT_DIR$/Topics/Integer types and operations/Big numbers" />
+            <option value="$PROJECT_DIR$/Topics/Integer types and operations/Calculate the digit" />
+            <option value="$PROJECT_DIR$/Topics/Integer types and operations/Computing the remainder and its triple" />
+            <option value="$PROJECT_DIR$/Topics/Integer types and operations/Converting minutes to hours and minutes format" />
+            <option value="$PROJECT_DIR$/Topics/Integer types and operations/Difference of times" />
+            <option value="$PROJECT_DIR$/Topics/Integer types and operations/How many nuts each squirrel will get" />
+            <option value="$PROJECT_DIR$/Topics/Integer types and operations/Integer operations" />
+            <option value="$PROJECT_DIR$/Topics/Integer types and operations/Match operations and their meanings" />
+            <option value="$PROJECT_DIR$/Topics/Integer types and operations/Reading integer numbers" />
+            <option value="$PROJECT_DIR$/Topics/Integer types and operations/Reversing" />
+            <option value="$PROJECT_DIR$/Topics/Integer types and operations/Reversing input numbers" />
+            <option value="$PROJECT_DIR$/Topics/Integer types and operations/Squirrels and nuts" />
+            <option value="$PROJECT_DIR$/Topics/Integer types and operations/Summing user input with a twist" />
+            <option value="$PROJECT_DIR$/Topics/Integer types and operations/Tens digit" />
+            <option value="$PROJECT_DIR$/Topics/Integer types and operations/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Naming variables/Declare a variable" />
+            <option value="$PROJECT_DIR$/Topics/Naming variables/Initializing inventory count and item price variables" />
+            <option value="$PROJECT_DIR$/Topics/Naming variables/Perform calculator operations on two fixed integers" />
+            <option value="$PROJECT_DIR$/Topics/Naming variables/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Printing data/Calculating arithmetic operations" />
+            <option value="$PROJECT_DIR$/Topics/Printing data/Completing a greeting message code" />
+            <option value="$PROJECT_DIR$/Topics/Printing data/Déjà vu" />
+            <option value="$PROJECT_DIR$/Topics/Printing data/First, second, third" />
+            <option value="$PROJECT_DIR$/Topics/Printing data/Fixing the greeting message compiler error" />
+            <option value="$PROJECT_DIR$/Topics/Printing data/From 0 to 4" />
+            <option value="$PROJECT_DIR$/Topics/Printing data/Goodbye, world" />
+            <option value="$PROJECT_DIR$/Topics/Printing data/Sorting the details of John's introduction" />
+            <option value="$PROJECT_DIR$/Topics/Printing data/Stars" />
+            <option value="$PROJECT_DIR$/Topics/Printing data/Theory" />
+            <option value="$PROJECT_DIR$/Topics/String/ Hello  string" />
+            <option value="$PROJECT_DIR$/Topics/String/Calling basic methods" />
+            <option value="$PROJECT_DIR$/Topics/String/Check burgs" />
+            <option value="$PROJECT_DIR$/Topics/String/Duplicating every character in a given string" />
+            <option value="$PROJECT_DIR$/Topics/String/Extracting a character" />
+            <option value="$PROJECT_DIR$/Topics/String/Extracting a specific character from a greeting message" />
+            <option value="$PROJECT_DIR$/Topics/String/Extracting a substring" />
+            <option value="$PROJECT_DIR$/Topics/String/Extracting the first character from a string" />
+            <option value="$PROJECT_DIR$/Topics/String/Replacing 'a' with 'b'" />
+            <option value="$PROJECT_DIR$/Topics/String/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Types and variables/Animal" />
+            <option value="$PROJECT_DIR$/Topics/Types and variables/Code reviewing" />
+            <option value="$PROJECT_DIR$/Topics/Types and variables/Declaring and printing different variable types" />
+            <option value="$PROJECT_DIR$/Topics/Types and variables/Invalid declaration of variables" />
+            <option value="$PROJECT_DIR$/Topics/Types and variables/New player" />
+            <option value="$PROJECT_DIR$/Topics/Types and variables/Statements" />
+            <option value="$PROJECT_DIR$/Topics/Types and variables/The assignment operator" />
+            <option value="$PROJECT_DIR$/Topics/Types and variables/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Types and variables/Warming up with a temperature tweak" />
+            <option value="$PROJECT_DIR$/util" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+    <option name="parallelModelFetch" value="true" />
+  </component>
+</project>

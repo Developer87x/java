@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module external.linked.project.id=":Topics-String-Duplicating_every_character_in_a_given_string:main" external.linked.project.path="$MODULE_DIR$/../../../../../Topics/String/Duplicating every character in a given string" external.root.project.path="$MODULE_DIR$/../../../../.." external.system.id="GRADLE" external.system.module.group="My First Project with Java" external.system.module.type="sourceSet" external.system.module.version="unspecified" type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <output url="file://$MODULE_DIR$/../../../../../Topics/String/Duplicating every character in a given string/out/production/classes" />
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/../../../../../Topics/String/Duplicating every character in a given string/src">
+      <sourceFolder url="file://$MODULE_DIR$/../../../../../Topics/String/Duplicating every character in a given string/src" isTestSource="false" />
+    </content>
+    <orderEntry type="jdk" jdkName="jbr-17" jdkType="JavaSDK" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>

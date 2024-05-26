@@ -1,0 +1,12 @@
+content:
+  - Theory
+  - Extracting the first character from a string
+  - Calling basic methods
+  - Extracting a substring
+  - Extracting a character
+  - Extracting a specific character from a greeting message
+  - ' Hello  string'
+  - Replacing 'a' with 'b'
+  - All robots speak Java
+  - Check burgs
+  - Duplicating every character in a given string

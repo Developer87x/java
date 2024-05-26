@@ -1,0 +1,25 @@
+type: choice
+is_multiple_choice: false
+options:
+  - text: 12
+  - text: 57
+  - text: result is 12
+  - text: result is 57
+files:
+  - name: src/Task.java
+    visible: true
+    learner_created: false
+feedback_link: https://hyperskill.org/learn/step/26369#comment
+status: Solved
+feedback:
+  message: "<html>In Java, using the + operator with strings concatenates (or glues\
+    \ together) whatever follows. \nThat's why it converts the number 5 into \"5\"\
+    \ (a text version of itself), and glues it onto \"result is \"\nIt's all about\
+    \ context — once you begin with a string, Java treats subsequent elements as part\
+    \ of that string.\n\n</html>"
+  time: "Fri, 24 May 2024 15:17:01 UTC"
+record: -1
+selected_options:
+  - 0
+custom_name: Déjà vu!
+local_check: false
